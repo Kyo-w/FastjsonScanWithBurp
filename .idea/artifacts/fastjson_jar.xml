@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="fastjson:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/fastjson_jar</output-path>
+    <root id="archive" name="fastjson.jar">
+      <element id="module-output" name="fastjson" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../burp.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/javaWork/openrepository/com/alibaba/fastjson/1.2.70/fastjson-1.2.70.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

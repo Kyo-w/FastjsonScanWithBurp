@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="burp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../burp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../javasource" />
+    </SOURCES>
+  </library>
+</component>
